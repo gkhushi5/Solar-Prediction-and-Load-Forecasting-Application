@@ -8,7 +8,7 @@ enhancing grid stability without frequent load shedding.
 3. Optimize microgrid operations with renewable sources, energy storage, and load balancing 
 strategies for efficient islanded and grid-connected microgrids.
 
-4. Enable energy market participation with optimized bidding strategies for day-ahead, realtime, and ancillary services markets.
+4. Enable energy market participation with optimized bidding strategies for day-ahead, real-time, and ancillary services markets.
    
 5. Optimize energy storage integration with scheduling algorithms for grid support services 
 and energy arbitrage.
