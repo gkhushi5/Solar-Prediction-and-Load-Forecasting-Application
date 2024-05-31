@@ -1,5 +1,5 @@
 # Solar-Prediction-and-Load-Forecasting-Application
-1. Developed real-time economic load dispatch algorithms for optimal power generation
+1. Developed a real-time economic load dispatch algorithms for optimal power generation
 scheduling based on fluctuating demand and generation costs.
 
 2. Integrated demand response programs to incentivize consumers, reducing peak demand and 
