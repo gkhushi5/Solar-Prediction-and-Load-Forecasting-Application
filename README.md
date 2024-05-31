@@ -1,17 +1,7 @@
-# Solar-Prediction-and-Load-Forecasting-Application
-1. Developed a real-time economic load dispatch algorithms for optimal power generation
-scheduling based on fluctuating demand and generation costs.
+This repository contains a comprehensive machine learning system for solar power prediction and load forecasting. The system utilizes a dataset of real-time data recorded over a full year, with features including Time, Global Solar, Solar Altitude, Solar Azimuth, Solar Angle of Incidence, Solar Cell Temperature, Solar Insolation, Solar Power Output, AC Primary Load, AC Primary Load Served, Total Electrical Load Served, Year, Hour, Minute, Month, and Day.
 
-2. Integrated demand response programs to incentivize consumers, reducing peak demand and 
-enhancing grid stability without frequent load shedding.
+The dataset is preprocessed and trained using seven algorithms for solar prediction, including Random Forest, Decision Tree, Lasso, Ridge, Elastic Net Model, and XGBoost. Based on evaluation metrics and accuracy, the Random Forest regressor is chosen for the primary prediction.
 
-3. Optimized microgrid operations with renewable sources, energy storage, and load balancing 
-strategies for efficient islanded and grid-connected microgrids.
+For load forecasting, the dataset is trained using four different algorithms: XGBoost, Decision Tree, Elastic Net Model, and Linear Regression. XGBoost is chosen for the primary forecasting due to its high accuracy.
 
-4. Enabled energy market participation with optimized bidding strategies for day-ahead, real-time, and ancillary services markets.
-   
-5. Optimized energy storage integration with scheduling algorithms for grid support services 
-and energy arbitrage.
-
-6. Designed innovative market mechanisms like peer-to-peer trading for efficient energy 
-exchange and renewable integration.
+This ML system, incorporating electrical engineering, machine learning, and computer programming, has potential real-world applications in smart energy management, load shading, and load dispatching. It can play a key role in managing power grids, ensuring efficient and effective power distribution to consumers. The system can be deployed using a user-friendly web app GUI, contributing to cost savings, improved efficiency, and minimized carbon emissions of the grid. Knowledge in electrical engineering, machine learning, and computer programming is required to develop this project.
